@@ -72,7 +72,3 @@ A pre-trained deep learning model is used to predict emotions based on the extra
 
 - [Exploring EEG - A Beginner's Guide on Kaggle](https://www.kaggle.com/code/yorkyong/exploring-eeg-a-beginner-s-guide/notebook)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
